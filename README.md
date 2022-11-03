@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Links
+
+- [Personal website](https://joshthomas.dev)
+- [@jimmyjosh](https://twitter.com/jimmyjosh) on Twitter
+- <a rel="me" href="https://social.joshthomas.dev/@josh">@josh@joshthomas.dev</a> on Mastodon
+
 <!--
 **elderlydoofus/elderlydoofus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
