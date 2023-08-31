@@ -4,6 +4,7 @@ on:
   schedule:
     # https://crontab.guru/#*/5_*_*_*_*
     - cron: "*/5 * * * *"
+  workflow_dispatch:
 
 jobs:
   dismiss:
