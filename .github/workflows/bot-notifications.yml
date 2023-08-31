@@ -1,0 +1,14 @@
+name: Dismiss Bot Notifications
+
+on:
+  schedule:
+    # https://crontab.guru/#*/5_*_*_*_*
+    - cron: "*/5 * * * *"
+
+jobs:
+  dismiss:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: "joshuadavidthomas/bot-notification-silencer@main"
+        with:
+          token: ${{ secrets.NOTIFICATIONS_SECRET }}
