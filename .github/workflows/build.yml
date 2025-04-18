@@ -22,7 +22,7 @@ jobs:
 
       - name: Update README
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          JOSHUADAVIDTHOMAS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           uv run update_readme.py
 

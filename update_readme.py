@@ -18,7 +18,7 @@ from typer import Typer
 cli = Typer()
 
 env = environs.Env()
-GITHUB_TOKEN = env.str("GITHUB_TOKEN")
+JOSHUADAVIDTHOMAS_TOKEN = env.str("JOSHUADAVIDTHOMAS_TOKEN")
 
 
 BASE_DIR = Path(__file__).parent.resolve()
@@ -110,7 +110,7 @@ def main() -> None:
     with open(README) as f:
         readme = f.read()
 
-    releases = fetch_releases(GITHUB_TOKEN)
+    releases = fetch_releases(JOSHUADAVIDTHOMAS_TOKEN)
     releases.sort(key=lambda r: r["published_at"], reverse=True)
 
     releases_md = "\n".join(
