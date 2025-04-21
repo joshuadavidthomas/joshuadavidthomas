@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Stats
-
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <picture>
         <source media="(prefers-color-scheme: dark)"
