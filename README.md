@@ -21,14 +21,11 @@
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)"
-            srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joshuadavidthomas&utcOffset=-6.00&theme=gith
-            ub_dark">
+            srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joshuadavidthomas&utcOffset=-6.00&theme=github_dark">
         <source media="(prefers-color-scheme: light)"
-            srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joshuadavidthomas&utcOffset=-6.00&theme=gith
-            ub">
+            srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joshuadavidthomas&utcOffset=-6.00&theme=github">
         <img alt="Josh's Productive Time"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joshuadavidthomas&utcOffset=-6.00&theme=github"
-        >
+            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joshuadavidthomas&utcOffset=-6.00&theme=github">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)"
