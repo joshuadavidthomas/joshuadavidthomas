@@ -48,6 +48,7 @@
 ### Releases
 
 <!-- releases start -->
+* [django-simple-nav v0.13.0](https://github.com/westerveltco/django-simple-nav/releases/tag/v0.13.0) - 2025-07-23
 * [django-github-app v0.7.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.7.0) - 2025-06-02
 * [django-lazy-gdal v0.2.2](https://github.com/joshuadavidthomas/django-lazy-gdal/releases/tag/v0.2.2) - 2025-05-02
 * [django-language-server v5.2.0a0](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v5.2.0a0) - 2025-04-21
@@ -57,5 +58,4 @@
 * [django-twc-toolbox v0.18.0](https://github.com/westerveltco/django-twc-toolbox/releases/tag/v0.18.0) - 2025-03-06
 * [django-bird-autoconf v0.1.1](https://github.com/joshuadavidthomas/django-bird-autoconf/releases/tag/v0.1.1) - 2025-02-18
 * [django-opfield v0.2.0](https://github.com/westerveltco/django-opfield/releases/tag/v0.2.0) - 2025-01-21
-* [django-q-registry v0.5.0](https://github.com/westerveltco/django-q-registry/releases/tag/v0.5.0) - 2025-01-21
 <!-- releases end -->
