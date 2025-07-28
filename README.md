@@ -48,7 +48,7 @@
 ### Releases
 
 <!-- releases start -->
-* [django-github-app v0.8.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.8.0) - 2025-07-25
+* [django-github-app v0.9.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.9.0) - 2025-07-28
 * [django-simple-nav v0.13.0](https://github.com/westerveltco/django-simple-nav/releases/tag/v0.13.0) - 2025-07-23
 * [django-lazy-gdal v0.2.2](https://github.com/joshuadavidthomas/django-lazy-gdal/releases/tag/v0.2.2) - 2025-05-02
 * [django-language-server v5.2.0a0](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v5.2.0a0) - 2025-04-21
