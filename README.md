@@ -48,7 +48,7 @@
 ### Releases
 
 <!-- releases start -->
-* [django-q-signals v0.2.0](https://github.com/joshuadavidthomas/django-q-signals/releases/tag/v0.2.0) - 2025-08-16
+* [django-q-signals v0.2.1](https://github.com/joshuadavidthomas/django-q-signals/releases/tag/v0.2.1) - 2025-08-17
 * [django-github-app v0.9.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.9.0) - 2025-07-28
 * [django-simple-nav v0.13.0](https://github.com/westerveltco/django-simple-nav/releases/tag/v0.13.0) - 2025-07-23
 * [django-lazy-gdal v0.2.2](https://github.com/joshuadavidthomas/django-lazy-gdal/releases/tag/v0.2.2) - 2025-05-02
