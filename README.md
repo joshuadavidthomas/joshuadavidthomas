@@ -48,6 +48,7 @@
 ### Releases
 
 <!-- releases start -->
+* [mcp-django-shell v0.1.0](https://github.com/joshuadavidthomas/mcp-django-shell/releases/tag/v0.1.0) - 2025-08-19
 * [django-q-signals v0.2.1](https://github.com/joshuadavidthomas/django-q-signals/releases/tag/v0.2.1) - 2025-08-17
 * [django-github-app v0.9.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.9.0) - 2025-07-28
 * [django-simple-nav v0.13.0](https://github.com/westerveltco/django-simple-nav/releases/tag/v0.13.0) - 2025-07-23
@@ -57,5 +58,4 @@
 * [django-email-relay v0.6.0](https://github.com/westerveltco/django-email-relay/releases/tag/v0.6.0) - 2025-04-10
 * [django-bird v0.17.3](https://github.com/joshuadavidthomas/django-bird/releases/tag/v0.17.3) - 2025-03-06
 * [django-twc-toolbox v0.18.0](https://github.com/westerveltco/django-twc-toolbox/releases/tag/v0.18.0) - 2025-03-06
-* [django-bird-autoconf v0.1.1](https://github.com/joshuadavidthomas/django-bird-autoconf/releases/tag/v0.1.1) - 2025-02-18
 <!-- releases end -->
