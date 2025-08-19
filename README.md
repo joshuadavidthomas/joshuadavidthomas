@@ -48,7 +48,7 @@
 ### Releases
 
 <!-- releases start -->
-* [mcp-django-shell v0.1.0](https://github.com/joshuadavidthomas/mcp-django-shell/releases/tag/v0.1.0) - 2025-08-19
+* [mcp-django-shell v0.2.0](https://github.com/joshuadavidthomas/mcp-django-shell/releases/tag/v0.2.0) - 2025-08-19
 * [django-q-signals v0.2.1](https://github.com/joshuadavidthomas/django-q-signals/releases/tag/v0.2.1) - 2025-08-17
 * [django-github-app v0.9.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.9.0) - 2025-07-28
 * [django-simple-nav v0.13.0](https://github.com/westerveltco/django-simple-nav/releases/tag/v0.13.0) - 2025-07-23
