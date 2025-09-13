@@ -54,8 +54,8 @@
 * [django-lazy-gdal v0.2.2](https://github.com/joshuadavidthomas/django-lazy-gdal/releases/tag/v0.2.2) - 2025-05-02
 * [llm-uv-tool v0.1.3](https://github.com/joshuadavidthomas/llm-uv-tool/releases/tag/v0.1.3) - 2025-04-18
 * [django-email-relay v0.6.0](https://github.com/westerveltco/django-email-relay/releases/tag/v0.6.0) - 2025-04-10
-* [django-bird v0.17.3](https://github.com/joshuadavidthomas/django-bird/releases/tag/v0.17.3) - 2025-03-06
 * [django-twc-toolbox v0.18.0](https://github.com/westerveltco/django-twc-toolbox/releases/tag/v0.18.0) - 2025-03-06
-* [django-bird-autoconf v0.1.1](https://github.com/joshuadavidthomas/django-bird-autoconf/releases/tag/v0.1.1) - 2025-02-18
 * [django-opfield v0.2.0](https://github.com/westerveltco/django-opfield/releases/tag/v0.2.0) - 2025-01-21
+* [django-q-registry v0.5.0](https://github.com/westerveltco/django-q-registry/releases/tag/v0.5.0) - 2025-01-21
+* [django-twc-package v2024.30](https://github.com/westerveltco/django-twc-package/releases/tag/v2024.30) - 2024-10-10
 <!-- releases end -->
