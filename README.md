@@ -49,13 +49,13 @@
 
 <!-- releases start -->
 * [django-language-server v5.2.0](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v5.2.0) - 2025-09-09
+* [mcp-django v2025.8.1](https://github.com/joshuadavidthomas/mcp-django/releases/tag/v2025.8.1) - 2025-08-26
+* [django-q-signals v0.2.1](https://github.com/joshuadavidthomas/django-q-signals/releases/tag/v0.2.1) - 2025-08-17
 * [django-github-app v0.9.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.9.0) - 2025-07-28
 * [django-simple-nav v0.13.0](https://github.com/westerveltco/django-simple-nav/releases/tag/v0.13.0) - 2025-07-23
 * [django-lazy-gdal v0.2.2](https://github.com/joshuadavidthomas/django-lazy-gdal/releases/tag/v0.2.2) - 2025-05-02
 * [llm-uv-tool v0.1.3](https://github.com/joshuadavidthomas/llm-uv-tool/releases/tag/v0.1.3) - 2025-04-18
 * [django-email-relay v0.6.0](https://github.com/westerveltco/django-email-relay/releases/tag/v0.6.0) - 2025-04-10
+* [django-bird v0.17.3](https://github.com/joshuadavidthomas/django-bird/releases/tag/v0.17.3) - 2025-03-06
 * [django-twc-toolbox v0.18.0](https://github.com/westerveltco/django-twc-toolbox/releases/tag/v0.18.0) - 2025-03-06
-* [django-opfield v0.2.0](https://github.com/westerveltco/django-opfield/releases/tag/v0.2.0) - 2025-01-21
-* [django-q-registry v0.5.0](https://github.com/westerveltco/django-q-registry/releases/tag/v0.5.0) - 2025-01-21
-* [django-twc-package v2024.30](https://github.com/westerveltco/django-twc-package/releases/tag/v2024.30) - 2024-10-10
 <!-- releases end -->
