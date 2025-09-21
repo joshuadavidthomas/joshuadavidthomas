@@ -48,6 +48,7 @@
 ### Releases
 
 <!-- releases start -->
+* [djtagspecs v0.1.0](https://github.com/joshuadavidthomas/djtagspecs/releases/tag/v0.1.0) - 2025-09-21
 * [django-language-server v5.2.0](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v5.2.0) - 2025-09-09
 * [mcp-django v2025.8.1](https://github.com/joshuadavidthomas/mcp-django/releases/tag/v2025.8.1) - 2025-08-26
 * [django-q-signals v0.2.1](https://github.com/joshuadavidthomas/django-q-signals/releases/tag/v0.2.1) - 2025-08-17
@@ -57,5 +58,4 @@
 * [llm-uv-tool v0.1.3](https://github.com/joshuadavidthomas/llm-uv-tool/releases/tag/v0.1.3) - 2025-04-18
 * [django-email-relay v0.6.0](https://github.com/westerveltco/django-email-relay/releases/tag/v0.6.0) - 2025-04-10
 * [django-bird v0.17.3](https://github.com/joshuadavidthomas/django-bird/releases/tag/v0.17.3) - 2025-03-06
-* [django-twc-toolbox v0.18.0](https://github.com/westerveltco/django-twc-toolbox/releases/tag/v0.18.0) - 2025-03-06
 <!-- releases end -->
