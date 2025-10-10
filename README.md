@@ -48,6 +48,7 @@
 ### Releases
 
 <!-- releases start -->
+* [djls-vscode v0.1.0](https://github.com/joshuadavidthomas/djls-vscode/releases/tag/v0.1.0) - 2025-10-10
 * [zed-django v0.1.1](https://github.com/joshuadavidthomas/zed-django/releases/tag/v0.1.1) - 2025-10-09
 * [django-language-server v5.2.3](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v5.2.3) - 2025-10-07
 * [djtagspecs v0.4.0](https://github.com/joshuadavidthomas/djtagspecs/releases/tag/v0.4.0) - 2025-09-23
@@ -57,5 +58,4 @@
 * [django-simple-nav v0.13.0](https://github.com/westerveltco/django-simple-nav/releases/tag/v0.13.0) - 2025-07-23
 * [django-lazy-gdal v0.2.2](https://github.com/joshuadavidthomas/django-lazy-gdal/releases/tag/v0.2.2) - 2025-05-02
 * [llm-uv-tool v0.1.3](https://github.com/joshuadavidthomas/llm-uv-tool/releases/tag/v0.1.3) - 2025-04-18
-* [django-email-relay v0.6.0](https://github.com/westerveltco/django-email-relay/releases/tag/v0.6.0) - 2025-04-10
 <!-- releases end -->
