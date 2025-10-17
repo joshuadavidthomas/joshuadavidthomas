@@ -48,6 +48,7 @@
 ### Releases
 
 <!-- releases start -->
+* [docs2markdown v0.1.0](https://github.com/joshuadavidthomas/docs2markdown/releases/tag/v0.1.0) - 2025-10-17
 * [mcp-django v0.10.0](https://github.com/joshuadavidthomas/mcp-django/releases/tag/v0.10.0) - 2025-10-12
 * [djtagspecs v0.5.0](https://github.com/joshuadavidthomas/djtagspecs/releases/tag/v0.5.0) - 2025-10-11
 * [djls-vscode v0.1.0](https://github.com/joshuadavidthomas/djls-vscode/releases/tag/v0.1.0) - 2025-10-10
@@ -57,5 +58,4 @@
 * [django-github-app v0.9.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.9.0) - 2025-07-28
 * [django-simple-nav v0.13.0](https://github.com/westerveltco/django-simple-nav/releases/tag/v0.13.0) - 2025-07-23
 * [django-lazy-gdal v0.2.2](https://github.com/joshuadavidthomas/django-lazy-gdal/releases/tag/v0.2.2) - 2025-05-02
-* [llm-uv-tool v0.1.3](https://github.com/joshuadavidthomas/llm-uv-tool/releases/tag/v0.1.3) - 2025-04-18
 <!-- releases end -->
