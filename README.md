@@ -48,9 +48,9 @@
 ### Releases
 
 <!-- releases start -->
+* [mcp-django v0.13.0](https://github.com/joshuadavidthomas/mcp-django/releases/tag/v0.13.0) - 2025-11-05
 * [djtagspecs v0.6.0](https://github.com/joshuadavidthomas/djtagspecs/releases/tag/v0.6.0) - 2025-11-04
 * [django-language-server v5.2.4](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v5.2.4) - 2025-11-04
-* [mcp-django v0.12.0](https://github.com/joshuadavidthomas/mcp-django/releases/tag/v0.12.0) - 2025-11-01
 * [zed-django v0.2.0](https://github.com/joshuadavidthomas/zed-django/releases/tag/v0.2.0) - 2025-10-27
 * [docs2markdown v0.4.0](https://github.com/joshuadavidthomas/docs2markdown/releases/tag/v0.4.0) - 2025-10-24
 * [djls-vscode v0.1.0](https://github.com/joshuadavidthomas/djls-vscode/releases/tag/v0.1.0) - 2025-10-10
