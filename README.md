@@ -48,7 +48,7 @@
 ### Releases
 
 <!-- releases start -->
-* [opencode-agent-skills v0.3.3](https://github.com/joshuadavidthomas/opencode-agent-skills/releases/tag/v0.3.3) - 2025-12-04
+* [opencode-agent-skills v0.4.0](https://github.com/joshuadavidthomas/opencode-agent-skills/releases/tag/v0.4.0) - 2025-12-05
 * [django-github-app v0.10.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.10.0) - 2025-12-02
 * [docs2markdown v0.5.0](https://github.com/joshuadavidthomas/docs2markdown/releases/tag/v0.5.0) - 2025-11-20
 * [mcp-django v0.13.0](https://github.com/joshuadavidthomas/mcp-django/releases/tag/v0.13.0) - 2025-11-05
