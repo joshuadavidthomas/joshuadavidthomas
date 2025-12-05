@@ -48,6 +48,7 @@
 ### Releases
 
 <!-- releases start -->
+* [dashtext v0.3.0](https://github.com/joshuadavidthomas/dashtext/releases/tag/v0.3.0) - 2025-12-05
 * [opencode-agent-skills v0.4.0](https://github.com/joshuadavidthomas/opencode-agent-skills/releases/tag/v0.4.0) - 2025-12-05
 * [django-github-app v0.10.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.10.0) - 2025-12-02
 * [docs2markdown v0.5.0](https://github.com/joshuadavidthomas/docs2markdown/releases/tag/v0.5.0) - 2025-11-20
@@ -57,5 +58,4 @@
 * [zed-django v0.2.0](https://github.com/joshuadavidthomas/zed-django/releases/tag/v0.2.0) - 2025-10-27
 * [djls-vscode v0.1.0](https://github.com/joshuadavidthomas/djls-vscode/releases/tag/v0.1.0) - 2025-10-10
 * [django-q-signals v0.2.1](https://github.com/joshuadavidthomas/django-q-signals/releases/tag/v0.2.1) - 2025-08-17
-* [django-simple-nav v0.13.0](https://github.com/westerveltco/django-simple-nav/releases/tag/v0.13.0) - 2025-07-23
 <!-- releases end -->
