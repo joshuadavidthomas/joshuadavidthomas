@@ -8,7 +8,7 @@ Web development was my gateway into programming, but I'm always trying to learn 
 
 I wanted to learn Rust with a real project. A language server for Django projects seemed like a good way to do that while hopefully improving Django's DX.
 
-**[django-language-server](https://github.com/joshuadavidthomas/django-language-server)** — an LSP for Django templates, written in Rust. Editor extensions for VSCode and Zed.
+**[django-language-server](https://github.com/joshuadavidthomas/django-language-server)** — a language server for Django projects, written in Rust. Editor extensions for VSCode ([djls-vscode](https://github.com/joshuadavidthomas/djls-vscode)) and Zed ([zed-django](https://github.com/joshuadavidthomas/zed-django)).
 
 ---
 
