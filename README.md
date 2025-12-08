@@ -16,7 +16,7 @@ LLMs are powerful but non-deterministic; how do you add guardrails without remov
 
 **[mcp-django](https://github.com/joshuadavidthomas/mcp-django)** gives LLMs structured access to Django projects, and **djangodocs.org** (private alpha, opening soon) is a better way for LLMs to search the documentation. 
 
-**[docs2markdown](https://github.com/joshuadavidthomas/docs2markdown)** is a CLI tool to convert HTML documentation to Markdown, built to power djangodocs.org.
+**[docs2markdown](https://github.com/joshuadavidthomas/docs2markdown)** is a CLI tool and Python library to convert HTML documentation to Markdown, built to power djangodocs.org.
 
 **[opencode-agent-skills](https://github.com/joshuadavidthomas/opencode-agent-skills)** and **[agent-skills](https://github.com/joshuadavidthomas/agent-skills)** document workflows and patterns for LLM coding agents — my attempts to figure out how to use these things, like everyone else.
 
