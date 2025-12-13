@@ -30,7 +30,7 @@ Missing tools on Linux that I wanted for myself — a good excuse to stretch int
 ## Recent Releases
 
 <!-- releases start -->
-* [opencode-agent-skills v0.6.0](https://github.com/joshuadavidthomas/opencode-agent-skills/releases/tag/v0.6.0) - 2025-12-12
+* [opencode-agent-skills v0.6.2](https://github.com/joshuadavidthomas/opencode-agent-skills/releases/tag/v0.6.2) - 2025-12-13
 * [opencode-beads v0.2.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.2.0) - 2025-12-12
 * [dashtext v0.3.0](https://github.com/joshuadavidthomas/dashtext/releases/tag/v0.3.0) - 2025-12-05
 * [django-github-app v0.10.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.10.0) - 2025-12-02
