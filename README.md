@@ -30,6 +30,7 @@ Missing tools on Linux that I wanted for myself — a good excuse to stretch int
 ## Recent Releases
 
 <!-- releases start -->
+* [django-language-server v6.0.0](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v6.0.0) - 2025-12-13
 * [opencode-agent-skills v0.6.2](https://github.com/joshuadavidthomas/opencode-agent-skills/releases/tag/v0.6.2) - 2025-12-13
 * [opencode-beads v0.2.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.2.0) - 2025-12-12
 * [dashtext v0.3.0](https://github.com/joshuadavidthomas/dashtext/releases/tag/v0.3.0) - 2025-12-05
@@ -37,7 +38,6 @@ Missing tools on Linux that I wanted for myself — a good excuse to stretch int
 * [docs2markdown v0.5.0](https://github.com/joshuadavidthomas/docs2markdown/releases/tag/v0.5.0) - 2025-11-20
 * [mcp-django v0.13.0](https://github.com/joshuadavidthomas/mcp-django/releases/tag/v0.13.0) - 2025-11-05
 * [djtagspecs v0.6.0](https://github.com/joshuadavidthomas/djtagspecs/releases/tag/v0.6.0) - 2025-11-04
-* [django-language-server v5.2.4](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v5.2.4) - 2025-11-04
 * [zed-django v0.2.0](https://github.com/joshuadavidthomas/zed-django/releases/tag/v0.2.0) - 2025-10-27
 * [djls-vscode v0.1.0](https://github.com/joshuadavidthomas/djls-vscode/releases/tag/v0.1.0) - 2025-10-10
 <!-- releases end -->
