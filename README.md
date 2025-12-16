@@ -22,7 +22,9 @@ LLMs are powerful but non-deterministic; how do you add guardrails without remov
 
 ---
 
-Speaking of making LLMs useful, the age of personal [vibe-engineered](https://simonwillison.net/2025/Oct/7/vibe-engineering/) software is upon us. Here are a few personal tools that I've wanted for myself -- applications that are locked behind a single company's walled garden or are lacking in some way on Linux. Plus it's a good excuse to stretch into desktop development, stay productive with web technologies (Tauri WebViews and Svelte), and write more Rust (any excuse is a good excuse 😄):
+Speaking of making LLMs useful, the age of personal [vibe-engineered](https://simonwillison.net/2025/Oct/7/vibe-engineering/) software is upon us. Here are a few personal tools that I've wanted for myself -- applications that are locked behind a single company's walled garden or are lacking in some way on Linux. 
+
+Plus it's a good excuse to stretch into desktop development, stay productive with web technologies (Tauri WebViews and Svelte), and write more Rust (any excuse is a good excuse 😄):
 
 - **[dashtext](https://github.com/joshuadavidthomas/dashtext)** — Quick-capture notes app for Linux.
 - **[dictate](https://github.com/joshuadavidthomas/dictate)** — Local voice-to-text transcription.
