@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Josh
 
-Software developer, self-taught. 
+Software developer, self-taught.
 
 Web development was my gateway into programming, but I'm always trying to learn more — stretch into new areas of computer science. I build tools that solve problems I run into, contribute in the open, and share what I make so others can learn from it — the way I did. Wouldn't be here without open source.
 
@@ -22,7 +22,7 @@ LLMs are powerful but non-deterministic; how do you add guardrails without remov
 
 ---
 
-Missing tools on Linux that I wanted for myself — a good excuse to stretch into desktop development, stay productive with web technologies (Tauri WebViews and Svelte), and write more Rust (any excuse is a good excuse 😄):
+Speaking of making LLMs useful, the age of personal [vibe-engineered](https://simonwillison.net/2025/Oct/7/vibe-engineering/) software is upon us. Here are a few personal tools that I've wanted for myself -- applications that are locked behind a single company's walled garden or are lacking in some way on Linux. Plus it's a good excuse to stretch into desktop development, stay productive with web technologies (Tauri WebViews and Svelte), and write more Rust (any excuse is a good excuse 😄):
 
 - **[dashtext](https://github.com/joshuadavidthomas/dashtext)** — Quick-capture notes app for Linux.
 - **[dictate](https://github.com/joshuadavidthomas/dictate)** — Local voice-to-text transcription.
