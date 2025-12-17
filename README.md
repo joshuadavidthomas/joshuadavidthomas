@@ -32,7 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
-* [opencode-handoff v0.1.0](https://github.com/joshuadavidthomas/opencode-handoff/releases/tag/v0.1.0) - 2025-12-17
+* [opencode-handoff v0.2.0](https://github.com/joshuadavidthomas/opencode-handoff/releases/tag/v0.2.0) - 2025-12-17
 * [opencode-beads v0.2.1](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.2.1) - 2025-12-16
 * [dashtext v0.3.1](https://github.com/joshuadavidthomas/dashtext/releases/tag/v0.3.1) - 2025-12-14
 * [django-language-server v6.0.0](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v6.0.0) - 2025-12-13
