@@ -32,6 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [opencode-agent-memory v0.1.0](https://github.com/joshuadavidthomas/opencode-agent-memory/releases/tag/v0.1.0) - 2025-12-19
 * [opencode-beads v0.2.2](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.2.2) - 2025-12-18
 * [opencode-handoff v0.3.2](https://github.com/joshuadavidthomas/opencode-handoff/releases/tag/v0.3.2) - 2025-12-18
 * [opencode-agent-skills v0.6.3](https://github.com/joshuadavidthomas/opencode-agent-skills/releases/tag/v0.6.3) - 2025-12-17
@@ -41,7 +42,6 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 * [docs2markdown v0.5.0](https://github.com/joshuadavidthomas/docs2markdown/releases/tag/v0.5.0) - 2025-11-20
 * [mcp-django v0.13.0](https://github.com/joshuadavidthomas/mcp-django/releases/tag/v0.13.0) - 2025-11-05
 * [djtagspecs v0.6.0](https://github.com/joshuadavidthomas/djtagspecs/releases/tag/v0.6.0) - 2025-11-04
-* [zed-django v0.2.0](https://github.com/joshuadavidthomas/zed-django/releases/tag/v0.2.0) - 2025-10-27
 <!-- releases end -->
 
 ## Contributions
