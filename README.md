@@ -32,8 +32,8 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [opencode-beads v0.3.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.3.0) - 2025-12-22
 * [opencode-agent-memory v0.1.0](https://github.com/joshuadavidthomas/opencode-agent-memory/releases/tag/v0.1.0) - 2025-12-19
-* [opencode-beads v0.2.2](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.2.2) - 2025-12-18
 * [opencode-handoff v0.3.2](https://github.com/joshuadavidthomas/opencode-handoff/releases/tag/v0.3.2) - 2025-12-18
 * [opencode-agent-skills v0.6.3](https://github.com/joshuadavidthomas/opencode-agent-skills/releases/tag/v0.6.3) - 2025-12-17
 * [dashtext v0.3.1](https://github.com/joshuadavidthomas/dashtext/releases/tag/v0.3.1) - 2025-12-14
