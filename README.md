@@ -32,6 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [wakatime-focusd v0.1.1](https://github.com/joshuadavidthomas/wakatime-focusd/releases/tag/v0.1.1) - 2025-12-30
 * [opencode-beads v0.3.2](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.3.2) - 2025-12-28
 * [opencode-handoff v0.4.0](https://github.com/joshuadavidthomas/opencode-handoff/releases/tag/v0.4.0) - 2025-12-23
 * [opencode-agent-memory v0.1.0](https://github.com/joshuadavidthomas/opencode-agent-memory/releases/tag/v0.1.0) - 2025-12-19
@@ -41,7 +42,6 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 * [django-github-app v0.10.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.10.0) - 2025-12-02
 * [docs2markdown v0.5.0](https://github.com/joshuadavidthomas/docs2markdown/releases/tag/v0.5.0) - 2025-11-20
 * [mcp-django v0.13.0](https://github.com/joshuadavidthomas/mcp-django/releases/tag/v0.13.0) - 2025-11-05
-* [djtagspecs v0.6.0](https://github.com/joshuadavidthomas/djtagspecs/releases/tag/v0.6.0) - 2025-11-04
 <!-- releases end -->
 
 ## Contributions
