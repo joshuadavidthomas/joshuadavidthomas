@@ -41,12 +41,16 @@ query {
         name
         description
         url
-        releases(orderBy: {field: CREATED_AT, direction: DESC}, first: 1) {
+        releases(orderBy: {field: CREATED_AT, direction: DESC}, first: 5) {
           totalCount
           nodes {
             name
+            tagName
             publishedAt
             url
+            author {
+              login
+            }
           }
         }
       }
@@ -77,22 +81,26 @@ def fetch_releases(oauth_token: str):
         for repo in repo_nodes:
             if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
                 repo_names.add(repo["name"])
-                releases.append(
-                    {
-                        "repo": repo["name"],
-                        "repo_url": repo["url"],
-                        "description": repo["description"],
-                        "release": repo["releases"]["nodes"][0]["name"]
-                        .replace(repo["name"], "")
-                        .strip(),
-                        "published_at": repo["releases"]["nodes"][0]["publishedAt"],
-                        "published_day": repo["releases"]["nodes"][0][
-                            "publishedAt"
-                        ].split("T")[0],
-                        "url": repo["releases"]["nodes"][0]["url"],
-                        "total_releases": repo["releases"]["totalCount"],
-                    }
-                )
+                # Find the first valid release (handles bot-created releases too)
+                for release_node in repo["releases"]["nodes"]:
+                    if not release_node.get("publishedAt"):
+                        continue
+                    # Use name if available, otherwise fall back to tagName
+                    release_name = release_node.get("name") or release_node.get("tagName") or ""
+                    release_name = release_name.replace(repo["name"], "").strip()
+                    releases.append(
+                        {
+                            "repo": repo["name"],
+                            "repo_url": repo["url"],
+                            "description": repo["description"],
+                            "release": release_name,
+                            "published_at": release_node["publishedAt"],
+                            "published_day": release_node["publishedAt"].split("T")[0],
+                            "url": release_node["url"],
+                            "total_releases": repo["releases"]["totalCount"],
+                        }
+                    )
+                    break  # Only take the first valid release per repo
         after_cursor = data["data"]["search"]["pageInfo"]["endCursor"]
         has_next_page = after_cursor
 
