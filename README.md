@@ -32,9 +32,9 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [opencode-beads v0.4.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.4.0) - 2026-01-20
 * [opencode-agent-skills v0.6.4](https://github.com/joshuadavidthomas/opencode-agent-skills/releases/tag/v0.6.4) - 2026-01-20
 * [wakatime-focusd v0.1.2](https://github.com/joshuadavidthomas/wakatime-focusd/releases/tag/v0.1.2) - 2025-12-31
-* [opencode-beads v0.3.2](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.3.2) - 2025-12-28
 * [opencode-handoff v0.4.0](https://github.com/joshuadavidthomas/opencode-handoff/releases/tag/v0.4.0) - 2025-12-23
 * [opencode-agent-memory v0.1.0](https://github.com/joshuadavidthomas/opencode-agent-memory/releases/tag/v0.1.0) - 2025-12-19
 * [dashtext v0.3.1](https://github.com/joshuadavidthomas/dashtext/releases/tag/v0.3.1) - 2025-12-14
