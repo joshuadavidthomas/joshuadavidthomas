@@ -32,7 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
-* [django-language-server v6.0.1](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v6.0.1) - 2026-02-11
+* [django-language-server v6.0.2](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v6.0.2) - 2026-02-12
 * [django-bird v0.18.0](https://github.com/joshuadavidthomas/django-bird/releases/tag/v0.18.0) - 2026-02-11
 * [pi-opensync-plugin v0.2.0](https://github.com/joshuadavidthomas/pi-opensync-plugin/releases/tag/v0.2.0) - 2026-01-29
 * [opencode-beads v0.4.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.4.0) - 2026-01-20
