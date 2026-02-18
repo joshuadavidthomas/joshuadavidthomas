@@ -57,6 +57,9 @@ A few contributions to bigger projects I'm proud of:
 ## Stats
 
 <div align="center">
+    <a href="https://www.gitpulse.dev/profile/joshuadavidthomas" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.gitpulse.dev/api/maker-summary/joshuadavidthomas/badge?size=large&theme=dark" alt="GitPulse Verified Developer" />
+    </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
         <picture>
             <source media="(prefers-color-scheme: dark)"
