@@ -32,6 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [djls-vscode v0.2.0](https://github.com/joshuadavidthomas/djls-vscode/releases/tag/v0.2.0) - 2026-02-19
 * [opencode-beads v0.5.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.5.0) - 2026-02-18
 * [django-bird v0.18.1](https://github.com/joshuadavidthomas/django-bird/releases/tag/v0.18.1) - 2026-02-12
 * [django-language-server v6.0.2](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v6.0.2) - 2026-02-12
@@ -41,7 +42,6 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 * [opencode-handoff v0.4.0](https://github.com/joshuadavidthomas/opencode-handoff/releases/tag/v0.4.0) - 2025-12-23
 * [opencode-agent-memory v0.1.0](https://github.com/joshuadavidthomas/opencode-agent-memory/releases/tag/v0.1.0) - 2025-12-19
 * [dashtext v0.3.1](https://github.com/joshuadavidthomas/dashtext/releases/tag/v0.3.1) - 2025-12-14
-* [django-github-app v0.10.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.10.0) - 2025-12-02
 <!-- releases end -->
 
 ## Contributions
