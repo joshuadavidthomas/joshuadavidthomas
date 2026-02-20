@@ -32,6 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [pi-peon-ping v0.1.0](https://github.com/joshuadavidthomas/pi-peon-ping/releases/tag/v0.1.0) - 2026-02-20
 * [opencode-beads v0.5.1](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.5.1) - 2026-02-19
 * [djls-vscode v0.2.0](https://github.com/joshuadavidthomas/djls-vscode/releases/tag/v0.2.0) - 2026-02-19
 * [django-bird v0.18.1](https://github.com/joshuadavidthomas/django-bird/releases/tag/v0.18.1) - 2026-02-12
@@ -41,7 +42,6 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 * [wakatime-focusd v0.1.2](https://github.com/joshuadavidthomas/wakatime-focusd/releases/tag/v0.1.2) - 2025-12-31
 * [opencode-handoff v0.4.0](https://github.com/joshuadavidthomas/opencode-handoff/releases/tag/v0.4.0) - 2025-12-23
 * [opencode-agent-memory v0.1.0](https://github.com/joshuadavidthomas/opencode-agent-memory/releases/tag/v0.1.0) - 2025-12-19
-* [dashtext v0.3.1](https://github.com/joshuadavidthomas/dashtext/releases/tag/v0.3.1) - 2025-12-14
 <!-- releases end -->
 
 ## Contributions
