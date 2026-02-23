@@ -32,7 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
-* [opencode-beads v0.5.3](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.5.3) - 2026-02-22
+* [opencode-beads v0.5.4](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.5.4) - 2026-02-23
 * [wakatime-focusd v0.1.3](https://github.com/joshuadavidthomas/wakatime-focusd/releases/tag/v0.1.3) - 2026-02-21
 * [opencode-handoff v0.4.1](https://github.com/joshuadavidthomas/opencode-handoff/releases/tag/v0.4.1) - 2026-02-20
 * [opencode-agent-skills v0.6.5](https://github.com/joshuadavidthomas/opencode-agent-skills/releases/tag/v0.6.5) - 2026-02-20
