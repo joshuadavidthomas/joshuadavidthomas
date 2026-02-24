@@ -32,11 +32,11 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [pi-peon-ping v0.2.0](https://github.com/joshuadavidthomas/pi-peon-ping/releases/tag/v0.2.0) - 2026-02-24
 * [opencode-beads v0.5.4](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.5.4) - 2026-02-23
 * [wakatime-focusd v0.1.3](https://github.com/joshuadavidthomas/wakatime-focusd/releases/tag/v0.1.3) - 2026-02-21
 * [opencode-handoff v0.4.1](https://github.com/joshuadavidthomas/opencode-handoff/releases/tag/v0.4.1) - 2026-02-20
 * [opencode-agent-skills v0.6.5](https://github.com/joshuadavidthomas/opencode-agent-skills/releases/tag/v0.6.5) - 2026-02-20
-* [pi-peon-ping v0.1.0](https://github.com/joshuadavidthomas/pi-peon-ping/releases/tag/v0.1.0) - 2026-02-20
 * [djls-vscode v0.2.0](https://github.com/joshuadavidthomas/djls-vscode/releases/tag/v0.2.0) - 2026-02-19
 * [django-bird v0.18.1](https://github.com/joshuadavidthomas/django-bird/releases/tag/v0.18.1) - 2026-02-12
 * [django-language-server v6.0.2](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v6.0.2) - 2026-02-12
