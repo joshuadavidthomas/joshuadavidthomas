@@ -32,7 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
-* [vibeusage v0.1.1](https://github.com/joshuadavidthomas/vibeusage/releases/tag/v0.1.1) - 2026-02-25
+* [vibeusage v0.2.0](https://github.com/joshuadavidthomas/vibeusage/releases/tag/v0.2.0) - 2026-02-25
 * [pi-peon-ping v0.2.0](https://github.com/joshuadavidthomas/pi-peon-ping/releases/tag/v0.2.0) - 2026-02-24
 * [opencode-beads v0.5.4](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.5.4) - 2026-02-23
 * [wakatime-focusd v0.1.3](https://github.com/joshuadavidthomas/wakatime-focusd/releases/tag/v0.1.3) - 2026-02-21
