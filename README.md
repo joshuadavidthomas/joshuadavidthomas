@@ -32,6 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [django-simple-nav v0.14.0](https://github.com/westerveltco/django-simple-nav/releases/tag/v0.14.0) - 2026-02-26
 * [vibeusage v0.2.0](https://github.com/joshuadavidthomas/vibeusage/releases/tag/v0.2.0) - 2026-02-25
 * [pi-peon-ping v0.2.0](https://github.com/joshuadavidthomas/pi-peon-ping/releases/tag/v0.2.0) - 2026-02-24
 * [opencode-beads v0.5.4](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.5.4) - 2026-02-23
@@ -41,7 +42,6 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 * [djls-vscode v0.2.0](https://github.com/joshuadavidthomas/djls-vscode/releases/tag/v0.2.0) - 2026-02-19
 * [django-bird v0.18.1](https://github.com/joshuadavidthomas/django-bird/releases/tag/v0.18.1) - 2026-02-12
 * [django-language-server v6.0.2](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v6.0.2) - 2026-02-12
-* [pi-opensync-plugin v0.2.0](https://github.com/joshuadavidthomas/pi-opensync-plugin/releases/tag/v0.2.0) - 2026-01-29
 <!-- releases end -->
 
 ## Contributions
