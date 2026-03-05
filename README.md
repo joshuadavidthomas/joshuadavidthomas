@@ -32,9 +32,9 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
-* [wakatime-focusd 0.4.0](https://github.com/joshuadavidthomas/wakatime-focusd/releases/tag/v0.4.0) - 2026-03-05
+* [wakatime-focusd 0.4.1](https://github.com/joshuadavidthomas/wakatime-focusd/releases/tag/v0.4.1) - 2026-03-05
+* [vibeusage v0.5.0](https://github.com/joshuadavidthomas/vibeusage/releases/tag/v0.5.0) - 2026-03-05
 * [kbd -global-v0.1.0](https://github.com/joshuadavidthomas/kbd/releases/tag/kbd-global-v0.1.0) - 2026-03-03
-* [vibeusage v0.4.0](https://github.com/joshuadavidthomas/vibeusage/releases/tag/v0.4.0) - 2026-03-02
 * [opencode-agent-memory v0.2.0](https://github.com/joshuadavidthomas/opencode-agent-memory/releases/tag/v0.2.0) - 2026-03-01
 * [opencode-beads v0.5.5](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.5.5) - 2026-03-01
 * [django-simple-nav v0.15.0](https://github.com/joshuadavidthomas/django-simple-nav/releases/tag/v0.15.0) - 2026-02-28
