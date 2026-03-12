@@ -33,12 +33,12 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 
 <!-- releases start -->
 * [djls-vscode v0.2.1](https://github.com/joshuadavidthomas/djls-vscode/releases/tag/v0.2.1) - 2026-03-12
+* [opencode-beads v0.6.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.6.0) - 2026-03-12
 * [kbd -iced-v0.2.0](https://github.com/joshuadavidthomas/kbd/releases/tag/kbd-iced-v0.2.0) - 2026-03-08
 * [zed-django v0.2.2](https://github.com/joshuadavidthomas/zed-django/releases/tag/v0.2.2) - 2026-03-07
 * [wakatime-focusd 0.4.1](https://github.com/joshuadavidthomas/wakatime-focusd/releases/tag/v0.4.1) - 2026-03-05
 * [vibeusage v0.5.0](https://github.com/joshuadavidthomas/vibeusage/releases/tag/v0.5.0) - 2026-03-05
 * [opencode-agent-memory v0.2.0](https://github.com/joshuadavidthomas/opencode-agent-memory/releases/tag/v0.2.0) - 2026-03-01
-* [opencode-beads v0.5.5](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.5.5) - 2026-03-01
 * [django-simple-nav v0.15.0](https://github.com/joshuadavidthomas/django-simple-nav/releases/tag/v0.15.0) - 2026-02-28
 * [opencode-handoff v0.5.0](https://github.com/joshuadavidthomas/opencode-handoff/releases/tag/v0.5.0) - 2026-02-26
 * [pi-peon-ping v0.2.0](https://github.com/joshuadavidthomas/pi-peon-ping/releases/tag/v0.2.0) - 2026-02-24
