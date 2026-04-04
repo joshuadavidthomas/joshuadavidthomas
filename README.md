@@ -32,6 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [pi-opensync-plugin v0.3.0](https://github.com/joshuadavidthomas/pi-opensync-plugin/releases/tag/v0.3.0) - 2026-04-04
 * [sonner-web-component v0.1.4](https://github.com/joshuadavidthomas/sonner-web-component/releases/tag/v0.1.4) - 2026-03-24
 * [djls-vscode v0.2.1](https://github.com/joshuadavidthomas/djls-vscode/releases/tag/v0.2.1) - 2026-03-12
 * [opencode-beads v0.6.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.6.0) - 2026-03-12
@@ -41,7 +42,6 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 * [vibeusage v0.5.0](https://github.com/joshuadavidthomas/vibeusage/releases/tag/v0.5.0) - 2026-03-05
 * [opencode-agent-memory v0.2.0](https://github.com/joshuadavidthomas/opencode-agent-memory/releases/tag/v0.2.0) - 2026-03-01
 * [django-simple-nav v0.15.0](https://github.com/joshuadavidthomas/django-simple-nav/releases/tag/v0.15.0) - 2026-02-28
-* [opencode-handoff v0.5.0](https://github.com/joshuadavidthomas/opencode-handoff/releases/tag/v0.5.0) - 2026-02-26
 <!-- releases end -->
 
 ## Contributions
