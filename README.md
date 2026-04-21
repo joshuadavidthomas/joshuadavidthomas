@@ -32,7 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
-* [vibeusage v0.6.0](https://github.com/joshuadavidthomas/vibeusage/releases/tag/v0.6.0) - 2026-04-21
+* [vibeusage v0.7.0](https://github.com/joshuadavidthomas/vibeusage/releases/tag/v0.7.0) - 2026-04-21
 * [pi-opensync-plugin v0.3.0](https://github.com/joshuadavidthomas/pi-opensync-plugin/releases/tag/v0.3.0) - 2026-04-04
 * [sonner-web-component v0.1.4](https://github.com/joshuadavidthomas/sonner-web-component/releases/tag/v0.1.4) - 2026-03-24
 * [djls-vscode v0.2.1](https://github.com/joshuadavidthomas/djls-vscode/releases/tag/v0.2.1) - 2026-03-12
