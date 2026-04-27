@@ -32,6 +32,16 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [vibeusage v0.8.0](https://github.com/joshuadavidthomas/vibeusage/releases/tag/v0.8.0) - 2026-04-27
+* [sveltekit-adapter-cloudflare v0.2.1](https://github.com/joshuadavidthomas/sveltekit-adapter-cloudflare/releases/tag/v0.2.1) - 2026-04-23
+* [pi-opensync-plugin v0.3.0](https://github.com/joshuadavidthomas/pi-opensync-plugin/releases/tag/v0.3.0) - 2026-04-04
+* [sonner-web-component v0.1.4](https://github.com/joshuadavidthomas/sonner-web-component/releases/tag/v0.1.4) - 2026-03-24
+* [djls-vscode v0.2.1](https://github.com/joshuadavidthomas/djls-vscode/releases/tag/v0.2.1) - 2026-03-12
+* [opencode-beads v0.6.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.6.0) - 2026-03-12
+* [kbd -iced-v0.2.0](https://github.com/joshuadavidthomas/kbd/releases/tag/kbd-iced-v0.2.0) - 2026-03-08
+* [zed-django v0.2.2](https://github.com/joshuadavidthomas/zed-django/releases/tag/v0.2.2) - 2026-03-07
+* [wakatime-focusd 0.4.1](https://github.com/joshuadavidthomas/wakatime-focusd/releases/tag/v0.4.1) - 2026-03-05
+* [opencode-agent-memory v0.2.0](https://github.com/joshuadavidthomas/opencode-agent-memory/releases/tag/v0.2.0) - 2026-03-01
 <!-- releases end -->
 
 ## Contributions
