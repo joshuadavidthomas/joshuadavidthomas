@@ -32,6 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [opencode-agent-skills v0.7.0](https://github.com/joshuadavidthomas/opencode-agent-skills/releases/tag/v0.7.0) - 2026-05-09
 * [agents-svelte v0.1.0](https://github.com/joshuadavidthomas/agents-svelte/releases/tag/v0.1.0) - 2026-05-07
 * [vibeusage v0.8.0](https://github.com/joshuadavidthomas/vibeusage/releases/tag/v0.8.0) - 2026-04-27
 * [sveltekit-adapter-cloudflare v0.2.1](https://github.com/joshuadavidthomas/sveltekit-adapter-cloudflare/releases/tag/v0.2.1) - 2026-04-23
@@ -41,7 +42,6 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 * [opencode-beads v0.6.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.6.0) - 2026-03-12
 * [kbd -iced-v0.2.0](https://github.com/joshuadavidthomas/kbd/releases/tag/kbd-iced-v0.2.0) - 2026-03-08
 * [zed-django v0.2.2](https://github.com/joshuadavidthomas/zed-django/releases/tag/v0.2.2) - 2026-03-07
-* [wakatime-focusd 0.4.1](https://github.com/joshuadavidthomas/wakatime-focusd/releases/tag/v0.4.1) - 2026-03-05
 <!-- releases end -->
 
 ## Contributions
