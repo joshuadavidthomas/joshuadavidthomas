@@ -32,9 +32,9 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [agents-svelte v0.2.0](https://github.com/joshuadavidthomas/agents-svelte/releases/tag/v0.2.0) - 2026-05-13
 * [opencode-beads v0.7.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.7.0) - 2026-05-09
 * [opencode-agent-skills v0.7.0](https://github.com/joshuadavidthomas/opencode-agent-skills/releases/tag/v0.7.0) - 2026-05-09
-* [agents-svelte v0.1.0](https://github.com/joshuadavidthomas/agents-svelte/releases/tag/v0.1.0) - 2026-05-07
 * [vibeusage v0.8.0](https://github.com/joshuadavidthomas/vibeusage/releases/tag/v0.8.0) - 2026-04-27
 * [sveltekit-adapter-cloudflare v0.2.1](https://github.com/joshuadavidthomas/sveltekit-adapter-cloudflare/releases/tag/v0.2.1) - 2026-04-23
 * [pi-opensync-plugin v0.3.0](https://github.com/joshuadavidthomas/pi-opensync-plugin/releases/tag/v0.3.0) - 2026-04-04
