@@ -32,6 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [django-language-server v6.0.3](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v6.0.3) - 2026-05-16
 * [llm-uv-tool v0.1.4](https://github.com/joshuadavidthomas/llm-uv-tool/releases/tag/v0.1.4) - 2026-05-14
 * [agents-svelte v0.2.0](https://github.com/joshuadavidthomas/agents-svelte/releases/tag/v0.2.0) - 2026-05-13
 * [opencode-beads v0.7.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.7.0) - 2026-05-09
@@ -41,7 +42,6 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 * [pi-opensync-plugin v0.3.0](https://github.com/joshuadavidthomas/pi-opensync-plugin/releases/tag/v0.3.0) - 2026-04-04
 * [sonner-web-component v0.1.4](https://github.com/joshuadavidthomas/sonner-web-component/releases/tag/v0.1.4) - 2026-03-24
 * [djls-vscode v0.2.1](https://github.com/joshuadavidthomas/djls-vscode/releases/tag/v0.2.1) - 2026-03-12
-* [kbd -iced-v0.2.0](https://github.com/joshuadavidthomas/kbd/releases/tag/kbd-iced-v0.2.0) - 2026-03-08
 <!-- releases end -->
 
 ## Contributions
