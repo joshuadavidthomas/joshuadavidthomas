@@ -32,8 +32,8 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [agents-svelte v0.4.0](https://github.com/joshuadavidthomas/agents-svelte/releases/tag/v0.4.0) - 2026-06-08
 * [vibeusage v0.9.0](https://github.com/joshuadavidthomas/vibeusage/releases/tag/v0.9.0) - 2026-05-22
-* [agents-svelte v0.3.0](https://github.com/joshuadavidthomas/agents-svelte/releases/tag/v0.3.0) - 2026-05-20
 * [django-language-server v6.0.3](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v6.0.3) - 2026-05-16
 * [llm-uv-tool v0.1.4](https://github.com/joshuadavidthomas/llm-uv-tool/releases/tag/v0.1.4) - 2026-05-14
 * [opencode-beads v0.7.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.7.0) - 2026-05-09
