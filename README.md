@@ -32,7 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
-* [ast-grep-rules v0.2.0](https://github.com/joshuadavidthomas/ast-grep-rules/releases/tag/v0.2.0) - 2026-07-21
+* [ast-grep-rules v0.3.0](https://github.com/joshuadavidthomas/ast-grep-rules/releases/tag/v0.3.0) - 2026-07-21
 * [vibeusage v0.10.0](https://github.com/joshuadavidthomas/vibeusage/releases/tag/v0.10.0) - 2026-07-04
 * [agents-svelte v0.5.0](https://github.com/joshuadavidthomas/agents-svelte/releases/tag/v0.5.0) - 2026-06-28
 * [django-twc-toolbox v0.18.1](https://github.com/westerveltco/django-twc-toolbox/releases/tag/v0.18.1) - 2026-06-23
