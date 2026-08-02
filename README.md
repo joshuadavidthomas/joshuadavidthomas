@@ -32,6 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [go-selfupdate v0.1.0](https://github.com/joshuadavidthomas/go-selfupdate/releases/tag/v0.1.0) - 2026-08-02
 * [hrd v0.1.0](https://github.com/joshuadavidthomas/hrd/releases/tag/v0.1.0) - 2026-08-01
 * [ts-skills v0.1.0](https://github.com/joshuadavidthomas/ts-skills/releases/tag/v0.1.0) - 2026-07-31
 * [vibeusage v0.13.0](https://github.com/joshuadavidthomas/vibeusage/releases/tag/v0.13.0) - 2026-07-29
@@ -41,7 +42,6 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 * [mcp-django v0.14.0](https://github.com/joshuadavidthomas/mcp-django/releases/tag/v0.14.0) - 2026-07-23
 * [agents-svelte v0.5.0](https://github.com/joshuadavidthomas/agents-svelte/releases/tag/v0.5.0) - 2026-06-28
 * [django-twc-toolbox v0.18.1](https://github.com/westerveltco/django-twc-toolbox/releases/tag/v0.18.1) - 2026-06-23
-* [django-language-server v6.0.3](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v6.0.3) - 2026-05-16
 <!-- releases end -->
 
 ## Contributions
