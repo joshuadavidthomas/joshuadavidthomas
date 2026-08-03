@@ -32,7 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
-* [go-selfupdate v0.1.0](https://github.com/joshuadavidthomas/go-selfupdate/releases/tag/v0.1.0) - 2026-08-02
+* [go-selfupdate v0.2.0](https://github.com/joshuadavidthomas/go-selfupdate/releases/tag/v0.2.0) - 2026-08-03
 * [hrd v0.1.0](https://github.com/joshuadavidthomas/hrd/releases/tag/v0.1.0) - 2026-08-01
 * [ts-skills v0.1.0](https://github.com/joshuadavidthomas/ts-skills/releases/tag/v0.1.0) - 2026-07-31
 * [vibeusage v0.13.0](https://github.com/joshuadavidthomas/vibeusage/releases/tag/v0.13.0) - 2026-07-29
