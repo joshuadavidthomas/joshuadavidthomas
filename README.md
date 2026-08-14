@@ -32,6 +32,8 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [django-github-app v0.11.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.11.0) - 2026-08-14
+* [django-bird v0.19.0](https://github.com/joshuadavidthomas/django-bird/releases/tag/v0.19.0) - 2026-08-14
 * [django-q-signals v0.3.0](https://github.com/joshuadavidthomas/django-q-signals/releases/tag/v0.3.0) - 2026-08-14
 * [django-simple-nav v0.16.0](https://github.com/joshuadavidthomas/django-simple-nav/releases/tag/v0.16.0) - 2026-08-14
 * [go-selfupdate v0.2.0](https://github.com/joshuadavidthomas/go-selfupdate/releases/tag/v0.2.0) - 2026-08-03
@@ -40,8 +42,6 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 * [vibeusage v0.13.0](https://github.com/joshuadavidthomas/vibeusage/releases/tag/v0.13.0) - 2026-07-29
 * [gh-actionkit 0.5.0](https://github.com/joshuadavidthomas/gh-actionkit/releases/tag/v0.5.0) - 2026-07-29
 * [ast-grep-rules v0.5.0](https://github.com/joshuadavidthomas/ast-grep-rules/releases/tag/v0.5.0) - 2026-07-25
-* [djls-pre-commit v6.0.3](https://github.com/joshuadavidthomas/djls-pre-commit/releases/tag/v6.0.3) - 2026-07-25
-* [mcp-django v0.14.0](https://github.com/joshuadavidthomas/mcp-django/releases/tag/v0.14.0) - 2026-07-23
 <!-- releases end -->
 
 ## Contributions
