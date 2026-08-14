@@ -32,6 +32,8 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [django-q-signals v0.3.0](https://github.com/joshuadavidthomas/django-q-signals/releases/tag/v0.3.0) - 2026-08-14
+* [django-simple-nav v0.16.0](https://github.com/joshuadavidthomas/django-simple-nav/releases/tag/v0.16.0) - 2026-08-14
 * [go-selfupdate v0.2.0](https://github.com/joshuadavidthomas/go-selfupdate/releases/tag/v0.2.0) - 2026-08-03
 * [hrd v0.1.0](https://github.com/joshuadavidthomas/hrd/releases/tag/v0.1.0) - 2026-08-01
 * [ts-skills v0.1.0](https://github.com/joshuadavidthomas/ts-skills/releases/tag/v0.1.0) - 2026-07-31
@@ -40,8 +42,6 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 * [ast-grep-rules v0.5.0](https://github.com/joshuadavidthomas/ast-grep-rules/releases/tag/v0.5.0) - 2026-07-25
 * [djls-pre-commit v6.0.3](https://github.com/joshuadavidthomas/djls-pre-commit/releases/tag/v6.0.3) - 2026-07-25
 * [mcp-django v0.14.0](https://github.com/joshuadavidthomas/mcp-django/releases/tag/v0.14.0) - 2026-07-23
-* [agents-svelte v0.5.0](https://github.com/joshuadavidthomas/agents-svelte/releases/tag/v0.5.0) - 2026-06-28
-* [django-twc-toolbox v0.18.1](https://github.com/westerveltco/django-twc-toolbox/releases/tag/v0.18.1) - 2026-06-23
 <!-- releases end -->
 
 ## Contributions
