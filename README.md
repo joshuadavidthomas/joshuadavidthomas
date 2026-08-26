@@ -32,6 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [djls-pre-commit v6.1.0](https://github.com/joshuadavidthomas/djls-pre-commit/releases/tag/v6.1.0) - 2026-08-26
 * [zed-django v0.3.0](https://github.com/joshuadavidthomas/zed-django/releases/tag/v0.3.0) - 2026-08-25
 * [opencode-beads v0.8.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.8.0) - 2026-08-25
 * [django-language-server v6.1.0](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v6.1.0) - 2026-08-25
@@ -41,7 +42,6 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 * [django-simple-nav v0.16.0](https://github.com/joshuadavidthomas/django-simple-nav/releases/tag/v0.16.0) - 2026-08-14
 * [go-selfupdate v0.2.0](https://github.com/joshuadavidthomas/go-selfupdate/releases/tag/v0.2.0) - 2026-08-03
 * [hrd v0.1.0](https://github.com/joshuadavidthomas/hrd/releases/tag/v0.1.0) - 2026-08-01
-* [ts-skills v0.1.0](https://github.com/joshuadavidthomas/ts-skills/releases/tag/v0.1.0) - 2026-07-31
 <!-- releases end -->
 
 ## Contributions
