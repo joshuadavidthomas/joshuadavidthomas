@@ -32,7 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
-* [kbd -winit-v0.2.0](https://github.com/joshuadavidthomas/kbd/releases/tag/kbd-winit-v0.2.0) - 2026-09-20
+* [kbd -winit-v0.2.1](https://github.com/joshuadavidthomas/kbd/releases/tag/kbd-winit-v0.2.1) - 2026-09-20
 * [crunchybridge-openapi 0.1.1](https://github.com/joshuadavidthomas/crunchybridge-openapi/releases/tag/v0.1.1) - 2026-09-04
 * [djls-pre-commit v6.1.0](https://github.com/joshuadavidthomas/djls-pre-commit/releases/tag/v6.1.0) - 2026-08-26
 * [zed-django v0.3.0](https://github.com/joshuadavidthomas/zed-django/releases/tag/v0.3.0) - 2026-08-25
