@@ -32,13 +32,13 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [django-language-server v6.1.1](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v6.1.1) - 2026-10-07
 * [opencode-agent-memory v0.3.0](https://github.com/joshuadavidthomas/opencode-agent-memory/releases/tag/v0.3.0) - 2026-09-22
 * [kbd -winit-v0.2.1](https://github.com/joshuadavidthomas/kbd/releases/tag/kbd-winit-v0.2.1) - 2026-09-20
 * [crunchybridge-openapi 0.1.1](https://github.com/joshuadavidthomas/crunchybridge-openapi/releases/tag/v0.1.1) - 2026-09-04
 * [djls-pre-commit v6.1.0](https://github.com/joshuadavidthomas/djls-pre-commit/releases/tag/v6.1.0) - 2026-08-26
 * [zed-django v0.3.0](https://github.com/joshuadavidthomas/zed-django/releases/tag/v0.3.0) - 2026-08-25
 * [opencode-beads v0.8.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.8.0) - 2026-08-25
-* [django-language-server v6.1.0](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v6.1.0) - 2026-08-25
 * [django-github-app v0.11.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.11.0) - 2026-08-14
 * [django-bird v0.19.0](https://github.com/joshuadavidthomas/django-bird/releases/tag/v0.19.0) - 2026-08-14
 * [django-q-signals v0.3.0](https://github.com/joshuadavidthomas/django-q-signals/releases/tag/v0.3.0) - 2026-08-14
