@@ -32,6 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [opencode-handoff v0.6.1](https://github.com/joshuadavidthomas/opencode-handoff/releases/tag/v0.6.1) - 2026-10-21
 * [sveltekit-adapter-cloudflare v0.3.0](https://github.com/joshuadavidthomas/sveltekit-adapter-cloudflare/releases/tag/v0.3.0) - 2026-10-18
 * [django-language-server v6.1.1](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v6.1.1) - 2026-10-07
 * [opencode-agent-memory v0.3.0](https://github.com/joshuadavidthomas/opencode-agent-memory/releases/tag/v0.3.0) - 2026-09-22
@@ -41,7 +42,6 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 * [zed-django v0.3.0](https://github.com/joshuadavidthomas/zed-django/releases/tag/v0.3.0) - 2026-08-25
 * [opencode-beads v0.8.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.8.0) - 2026-08-25
 * [django-github-app v0.11.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.11.0) - 2026-08-14
-* [django-bird v0.19.0](https://github.com/joshuadavidthomas/django-bird/releases/tag/v0.19.0) - 2026-08-14
 <!-- releases end -->
 
 ## Contributions
