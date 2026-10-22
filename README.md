@@ -32,6 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [django-github-app v0.12.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.12.0) - 2026-10-22
 * [opencode-beads v0.9.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.9.0) - 2026-10-21
 * [opencode-handoff v0.6.1](https://github.com/joshuadavidthomas/opencode-handoff/releases/tag/v0.6.1) - 2026-10-21
 * [sveltekit-adapter-cloudflare v0.3.0](https://github.com/joshuadavidthomas/sveltekit-adapter-cloudflare/releases/tag/v0.3.0) - 2026-10-18
@@ -41,7 +42,6 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 * [crunchybridge-openapi 0.1.1](https://github.com/joshuadavidthomas/crunchybridge-openapi/releases/tag/v0.1.1) - 2026-09-04
 * [djls-pre-commit v6.1.0](https://github.com/joshuadavidthomas/djls-pre-commit/releases/tag/v6.1.0) - 2026-08-26
 * [zed-django v0.3.0](https://github.com/joshuadavidthomas/zed-django/releases/tag/v0.3.0) - 2026-08-25
-* [django-github-app v0.11.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.11.0) - 2026-08-14
 <!-- releases end -->
 
 ## Contributions
