@@ -32,6 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [ast-grep-rules v0.8.0](https://github.com/joshuadavidthomas/ast-grep-rules/releases/tag/v0.8.0) - 2026-10-23
 * [django-github-app v0.12.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.12.0) - 2026-10-22
 * [opencode-beads v0.9.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.9.0) - 2026-10-21
 * [opencode-handoff v0.6.1](https://github.com/joshuadavidthomas/opencode-handoff/releases/tag/v0.6.1) - 2026-10-21
@@ -41,7 +42,6 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 * [kbd -winit-v0.2.1](https://github.com/joshuadavidthomas/kbd/releases/tag/kbd-winit-v0.2.1) - 2026-09-20
 * [crunchybridge-openapi 0.1.1](https://github.com/joshuadavidthomas/crunchybridge-openapi/releases/tag/v0.1.1) - 2026-09-04
 * [djls-pre-commit v6.1.0](https://github.com/joshuadavidthomas/djls-pre-commit/releases/tag/v6.1.0) - 2026-08-26
-* [zed-django v0.3.0](https://github.com/joshuadavidthomas/zed-django/releases/tag/v0.3.0) - 2026-08-25
 <!-- releases end -->
 
 ## Contributions
