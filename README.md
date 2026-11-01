@@ -32,7 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
-* [ast-grep-rules v0.9.0](https://github.com/joshuadavidthomas/ast-grep-rules/releases/tag/v0.9.0) - 2026-10-31
+* [ast-grep-rules v0.10.0](https://github.com/joshuadavidthomas/ast-grep-rules/releases/tag/v0.10.0) - 2026-11-01
 * [opencode-handoff v0.7.0](https://github.com/joshuadavidthomas/opencode-handoff/releases/tag/v0.7.0) - 2026-10-29
 * [pi-peon-ping v0.3.0](https://github.com/joshuadavidthomas/pi-peon-ping/releases/tag/v0.3.0) - 2026-10-24
 * [django-github-app v0.12.0](https://github.com/joshuadavidthomas/django-github-app/releases/tag/v0.12.0) - 2026-10-22
