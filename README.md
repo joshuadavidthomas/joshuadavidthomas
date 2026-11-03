@@ -32,6 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
+* [opencode-agent-memory v0.3.1](https://github.com/joshuadavidthomas/opencode-agent-memory/releases/tag/v0.3.1) - 2026-11-03
 * [zed-django v0.3.1](https://github.com/joshuadavidthomas/zed-django/releases/tag/v0.3.1) - 2026-11-02
 * [ast-grep-rules v0.10.0](https://github.com/joshuadavidthomas/ast-grep-rules/releases/tag/v0.10.0) - 2026-11-01
 * [opencode-handoff v0.7.0](https://github.com/joshuadavidthomas/opencode-handoff/releases/tag/v0.7.0) - 2026-10-29
@@ -40,7 +41,6 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 * [opencode-beads v0.9.0](https://github.com/joshuadavidthomas/opencode-beads/releases/tag/v0.9.0) - 2026-10-21
 * [sveltekit-adapter-cloudflare v0.3.0](https://github.com/joshuadavidthomas/sveltekit-adapter-cloudflare/releases/tag/v0.3.0) - 2026-10-18
 * [django-language-server v6.1.1](https://github.com/joshuadavidthomas/django-language-server/releases/tag/v6.1.1) - 2026-10-07
-* [opencode-agent-memory v0.3.0](https://github.com/joshuadavidthomas/opencode-agent-memory/releases/tag/v0.3.0) - 2026-09-22
 * [kbd -winit-v0.2.1](https://github.com/joshuadavidthomas/kbd/releases/tag/kbd-winit-v0.2.1) - 2026-09-20
 <!-- releases end -->
 
