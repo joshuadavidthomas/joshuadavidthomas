@@ -32,7 +32,7 @@ Plus it's a good excuse to stretch into desktop development, stay productive wit
 ## Recent Releases
 
 <!-- releases start -->
-* [ast-grep-rules v0.11.0](https://github.com/joshuadavidthomas/ast-grep-rules/releases/tag/v0.11.0) - 2026-11-04
+* [ast-grep-rules v0.12.0](https://github.com/joshuadavidthomas/ast-grep-rules/releases/tag/v0.12.0) - 2026-11-13
 * [opencode-agent-memory v0.3.1](https://github.com/joshuadavidthomas/opencode-agent-memory/releases/tag/v0.3.1) - 2026-11-03
 * [zed-django v0.3.1](https://github.com/joshuadavidthomas/zed-django/releases/tag/v0.3.1) - 2026-11-02
 * [opencode-handoff v0.7.0](https://github.com/joshuadavidthomas/opencode-handoff/releases/tag/v0.7.0) - 2026-10-29
